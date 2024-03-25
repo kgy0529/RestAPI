@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RestAPI/static/css/main.5db571e6.css",
+    "main.js": "/RestAPI/static/js/main.db191931.js",
+    "index.html": "/RestAPI/index.html",
+    "main.5db571e6.css.map": "/RestAPI/static/css/main.5db571e6.css.map",
+    "main.db191931.js.map": "/RestAPI/static/js/main.db191931.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5db571e6.css",
+    "static/js/main.db191931.js"
+  ]
+}
